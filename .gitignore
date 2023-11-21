@@ -1,3 +1,9 @@
 node_modules/
 .idea/
 package-lock.json
+
+# Ignorar a pasta vendor
+/vendor
+
+# Ignorar o arquivo .env
+.env
